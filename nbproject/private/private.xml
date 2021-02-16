@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/model/networking/Server.java</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/database/ScoreDB.java</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/model/game/MediumAsteroid.java</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/database/Score.java</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/controller/HostController.java</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/model/networking/Joiner.java</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/controller/JoinerController.java</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/gui/GameMenu.java</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/model/game/SmallAsteroid.java</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/gui/source.gif</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/model/game/Game.java</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/model/game/GameObject.java</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/controller/SingleButton.java</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/gui/ScorePanel.java</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/controller/SpectButton.java</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/model/networking/Spectator.java</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/model/game/LargeAsteroid.java</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/gui/AsteroidsFrame.java</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/gui/AsteroidsPanel.java</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/controller/ScoreButton.java</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/controller/JoinButton.java</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/model/game/Bullet.java</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/controller/HostButton.java</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/gui/HostFrame.java</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/model/game/Asteroid.java</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/model/networking/ClientNetworkIO.java</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/model/networking/ServerNetworkIO.java</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/Asteroids.java</file>
+            <file>file:/home/s3198928/Desktop/2017_group_1_s3083691_s3198928/asteroids/src/main/java/aoop/asteroids/model/game/Spaceship.java</file>
+        </group>
+    </open-files>
+</project-private>

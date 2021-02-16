@@ -1,0 +1,6 @@
+aoop.asteroids
+aoop.asteroids.controller
+aoop.asteroids.database
+aoop.asteroids.gui
+aoop.asteroids.model.game
+aoop.asteroids.model.networking
